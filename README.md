@@ -6,7 +6,7 @@ I'm currently working on a SID controller library for Teensy, and on various aud
 
 Currently studying SW protection.
 
-If you want to contact me, this is my email: samuele.gamberoni.audio@gmail.com.
+If you want to contact me, this is my email: samuele.gamberoni.audio@gmail.com
 
 <!---
 audiogambero/audiogambero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
