@@ -4,7 +4,7 @@ I'm a developer for Acustica Audio. In my spare time I work on personal projects
 
 I'm currently working on a SID controller library for Teensy, and on various audio plug-ins.
 
-Currently studying pitch tracking.
+Currently studying linear phase filters.
 
 If you want to contact me, this is my email: samuele.gamberoni.audio@gmail.com
 
