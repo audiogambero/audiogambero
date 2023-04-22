@@ -2,7 +2,7 @@
 
 I'm a developer for Acustica Audio. In my spare time I work on personal projects that, as my username suggest, are audio-related.
 
-Currently studying linear phase filters.
+Currently studying WDFs and Pitch Tracking.
 
 If you want to contact me, this is my email: samuele.gamberoni.audio@gmail.com
 
