@@ -1,10 +1,6 @@
 👋 Hey everyone, I’m @audiogambero 🔊🦐
 
-I'm a developer for Acustica Audio. In my spare time I work on personal projects that, as my username suggest, are audio-related.
-
-Currently studying WDFs.
-
-If you want to contact me, this is my email: samuele.gamberoni.audio@gmail.com
+I make audio plugins for fun
 
 <!---
 audiogambero/audiogambero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
